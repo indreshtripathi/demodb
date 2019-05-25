@@ -5,7 +5,9 @@
     {"id":3, "name": "Indresh3", "company": "indCompany3", "postlink3": "dummylink3"}
   ],
   
-  "posts": {
-    "name": "typicode"
-  }
+  "posts": [
+    {"id":1, "link": "dummylink1"},
+    {"id":2, "link": "dummylink2"},
+    {"id":3, "link": "dummylink3"},
+  ]
 }

@@ -1,0 +1,11 @@
+{
+  "users": [
+    {"id":1, "name": "Indresh", "company": "indCompany", "postlink": "dummylink1"},
+    {"id":2, "name": "Indresh2", "company": "indCompany2", "postlink2": "dummylink2"},
+    {"id":3, "name": "Indresh3", "company": "indCompany3", "postlink3": "dummylink3"}
+  ],
+  
+  "posts": {
+    "name": "typicode"
+  }
+}
